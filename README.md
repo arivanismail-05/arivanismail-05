@@ -28,6 +28,7 @@ I specialize in building robust **Backend Architectures** and scalable web appli
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Livewire-4e568d?style=flat-square&logo=livewire&logoColor=white" />
 
 **Frontend & UI**
 <br>
