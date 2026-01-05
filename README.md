@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###👩‍💻 About Me
 
 I am based in **Erbil, Iraq**, currently studying **Information System Engineering** at **Erbil Polytechnic University**.
 
