@@ -1,20 +1,8 @@
-# Hi there, I'm Arivan Ismail 👋
+# Hi there, I'm arivan 👋
 
-### Information System Engineering Student | Full Stack Developer
+### Information System Engineering Student | junior Backend WebDeveloper
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arivanismail-05&label=Profile%20Views&color=blue&style=flat-square)
-
----
-
-### About Me
-
-I am based in **Erbil, Iraq**, currently studying **Information System Engineering** at **Erbil Polytechnic University**.
-
-I specialize in building robust **Backend Architectures** and scalable web applications. I am passionate about clean code, database optimization, and modern web technologies.
-
-* 🔭 I’m currently working on a **Full Stack Task Management System**
-* 🌱 I’m currently learning **Advanced Laravel Patterns & System Design**
-* 📫 How to reach me: **arivaniibrahim7@gmail.com**
 
 ---
 
